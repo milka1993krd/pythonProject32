@@ -1,0 +1,29 @@
+2023-10-25 15:38:21,124 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 15:38:51,367 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 15:40:55,915 INFO autoreload /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/django/__init__.py changed, reloading.
+2023-10-25 15:40:56,672 INFO autoreload /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/django/__init__.py changed, reloading.
+2023-10-25 15:40:57,422 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 15:40:57,760 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 15:55:36,778 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 15:59:05,227 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 15:59:48,181 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 15:59:49,170 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 15:59:59,561 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:00:00,428 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 16:00:17,943 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:00:19,156 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 16:04:05,714 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:04:06,839 INFO autoreload Watching for file changes with StatReloader
+
+2023-10-25 16:10:31,597 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:10:32,877 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 16:10:47,363 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:10:48,240 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 16:10:58,636 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:11:01,668 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 16:11:12,098 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:11:13,225 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 16:18:50,707 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:18:51,889 INFO autoreload Watching for file changes with StatReloader
+2023-10-25 16:19:08,433 INFO autoreload /Users/vitalijsarkov/PycharmProjects/pythonProject32/django-projects/NewsPaper/NewsPaper/settings.py changed, reloading.
+2023-10-25 16:19:10,216 INFO autoreload Watching for file changes with StatReloader
